@@ -1,5 +1,5 @@
 # ClipSynth
-Light and fast video clips manager for Windows. Depends on
+Light and fast tool for generating video clips from images and other video clips. Also supports soundtracks. Depends on
 [VirtualDub] (http://virtualdub.org/),
 [AviSynth] (http://sourceforge.net/projects/avisynth2/) and
 [NicAudio] (http://nicaudio.codeplex.com/).
