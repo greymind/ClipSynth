@@ -1,5 +1,8 @@
 # ClipSynth
-Light and fast video clips manager for Windows. Depends on VirtualDub, AviSynth and NicAudio.
+Light and fast video clips manager for Windows. Depends on
+[VirtualDub] (http://virtualdub.org/),
+[AviSynth] (http://sourceforge.net/projects/avisynth2/) and
+[NicAudio] (http://nicaudio.codeplex.com/).
 
 ## Dependencies
 1. Obtain VirtualDub and extract it to a `VirtualDub` folder under the `ClipSynth` root folder.
