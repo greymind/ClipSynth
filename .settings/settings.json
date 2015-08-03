@@ -1,0 +1,15 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.DS_Store": true,
+		".vs/": true,
+		"VirtualDub/": true,
+		"ClipSynth/obj/": true,
+		"*.pdb": true,
+		"*.exe": true,
+		"*.manifest": true,
+		"*.vshost*": true,
+		"NicAudio.dll": true,
+	}
+}

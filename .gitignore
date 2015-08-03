@@ -1,0 +1,11 @@
+VirtualDub/
+*.exe
+*.suo
+.vs/
+ClipSynth/obj/
+*.pdb
+*.vshost*
+*.manifest
+NicAudio.dll
+ClipSynthSettings.xml
+VirtualDub.jobs
